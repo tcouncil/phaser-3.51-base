@@ -10,3 +10,4 @@ Enjoy and happy coding!
 
 ### What to edit
 Be sure to edit the game.js within the js folder!
+Really you can do whatever you want but that's where our game resides! :D
