@@ -20,5 +20,7 @@ Simply just delete and replace the phaser.js with the version you'd like to use
 #### Be Sure To Check Out These Links!
 [Phaser Learning](https://phaser.io/learn)  
 [Phaser Examples](https://phaser.io/examples)  
-[Phaser Discord](https://phaser.io/community/discord)  
 [Infinite Jumper in Phaser 3 E-BOOK](https://ourcade.co/books/infinite-jumper-phaser3)  
+[Phaser github src](https://github.com/photonstorm/phaser/tree/master/src)    
+[Phaser Discord](https://phaser.io/community/discord)  
+
