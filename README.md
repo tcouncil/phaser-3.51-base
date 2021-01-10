@@ -12,6 +12,9 @@ Enjoy and happy coding!
 Be sure to edit the game.js within the js folder!  
 Really you can do whatever you want but that's where our game resides! :D  
 
+#### If you want to update the version of Phaser
+Simply just delete and replace the phaser.js with the version you'd like to use
+
 #### Be Sure To Check Out These Links!
 [Phaser Learning](https://phaser.io/learn)  
 [Phaser Examples](https://phaser.io/examples)  
