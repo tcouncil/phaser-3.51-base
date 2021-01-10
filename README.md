@@ -11,3 +11,9 @@ Enjoy and happy coding!
 ### What to edit
 Be sure to edit the game.js within the js folder!
 Really you can do whatever you want but that's where our game resides! :D
+
+#### Be Sure To Check Out These Links!
+[Phaser Learning](https://phaser.io/learn)
+[Phaser Examples](https://phaser.io/examples)
+[Phaser Discord](https://phaser.io/community/discord)
+[Infinite Jumper in Phaser 3 E-BOOK](https://ourcade.co/books/infinite-jumper-phaser3)
