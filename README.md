@@ -2,7 +2,7 @@
 Base install of Phaser 3.51 "Emilia"  
 Empty scene ready for your coding expertise!   
 
-![Image of Phaser Logo](https://phaser.io/images/img.png)
+![Image of Phaser Logo](https://phaser.io/images/img.png =250x)
 
 ## How to use
 To preview the game. Make sure you're using a local web server!  
