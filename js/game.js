@@ -11,6 +11,11 @@ gameScene.create = function () {
     this.add.text(240,20, `Let's make a game!`);
 };
 
+// our main gameloop in a sense (update() is called up to 60 times per second)
+gameScene.update = function(){
+
+};
+
 // config the game
 let config = {
     type: Phaser.AUTO, // Phaser will use WebGL if availabe, if not it will use Canvas for rendering
